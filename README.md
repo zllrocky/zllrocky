@@ -74,3 +74,6 @@ I am proficient in applying **test design techniques** and managing test documen
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zllrocky)
+
+### 📂 Practice:
+* [**QA Course Work**](https://github.com/zllrocky/qa-course-practice) — A collection of my test documentation and bug reproduction videos.
