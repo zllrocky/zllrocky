@@ -8,25 +8,19 @@ I am currently focusing on learning **Python** and building my first projects. M
 ---
 
 ### 🎓 Education: Manual QA Course
-I have completed a 37.5-hour training program covering the software testing lifecycle. This course provided me with a strong technical background and hands-on experience with:
+Completed a 37.5-hour training program covering the software testing lifecycle. 
 
 **Test Management, API & Databases:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=jira,postman,mysql,mongodb,sqlite,bash" />
-</p>
+![QA Icons](https://skillicons.dev/icons?i=jira,postman,mysql,mongodb,sqlite,bash&theme=dark)
 
 **Mobile & Traffic Analysis Tools:**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,apple" />
-  <span>(Expertise in Charles, Fiddler, Proxyman, SoapUI, TestRail)</span>
-</p>
+![Mobile Icons](https://skillicons.dev/icons?i=androidstudio,apple&theme=dark)
+*(Expertise in Charles, Fiddler, Proxyman, SoapUI, TestRail)*
 
 ---
 
 ### 💻 Tools & Coding:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,git,pycharm,vscode,linux" />
-</p>
+![Dev Icons](https://skillicons.dev/icons?i=py,git,pycharm,vscode,linux&theme=dark)
 
 ---
 
@@ -43,12 +37,8 @@ I have completed a 37.5-hour training program covering the software testing life
 ---
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/eugene-solomon-7679753a3/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>&nbsp;
-<a href="https://t.me/MyRocky1993" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugene-solomon-7679753a3/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MyRocky1993)
 
 <br>
 
