@@ -42,8 +42,7 @@ Completed a 37.5-hour training program covering the software testing lifecycle.
 ---
 
 ### 🚀 Recent Projects:
-* **[The Magic Rift](https://github.com/zllrocky/the-magic-rift)** — 2D Action-Shooter (Python/Pygame).
-* **[Learning Log](https://github.com/zllrocky/learning_log_project)** — Web application for tracking studies (Django).
+* **[The Magic Rift](https://github.com/zllrocky/the-magic-rift.)** — 2D Action-Shooter (Python/Pygame).
 
 ---
 
