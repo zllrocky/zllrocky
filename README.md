@@ -3,6 +3,7 @@
 I am currently focusing on learning **Python** and building my first projects. My goal is to develop a solid technical foundation and transition into software development. 
 
 * 🐍 **Currently Learning:** Python Core (OOP), Pygame, and Django.
+* 🛠️ **Practical Experience:** Building "The Magic Rift" game and developing web projects.
 
 ---
 
@@ -11,61 +12,44 @@ I have completed a 37.5-hour training program covering the software testing life
 
 **Test Management, API & Databases:**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jira,postman,mysql,mongodb,sqlite,bash" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=jira,postman,mysql,mongodb,sqlite,bash" />
 </p>
 
 **Mobile & Traffic Analysis Tools:**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,apple" />
-  </a>
-  <span>(Expertise in Charles, Fiddler, Proxyman, SoapUI)</span>
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple" />
+  <span>(Expertise in Charles, Fiddler, Proxyman, SoapUI, TestRail)</span>
 </p>
 
 ---
 
 ### 💻 Tools & Coding:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,git,pycharm,vscode,linux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,git,pycharm,vscode,linux" />
 </p>
 
 ---
 
 ### 🚀 Recent Projects:
-* **[The Magic Rift][(https://github.com/zllrocky/the-magic-rift](https://github.com/zllrocky/the-magic-rift.)** — 2D Action-Shooter (Python/Pygame).
-* **[Learning Log]** — Web application for tracking studies (Django).
+* **[The Magic Rift](https://github.com/zllrocky/the-magic-rift)** — 2D Action-Shooter (Python/Pygame).
+* **[Learning Log](https://github.com/zllrocky/learning_log_project)** — Web application for tracking studies (Django).
 
 ---
 
 ### 📂 Practice & Documentation:
-* **[QA Course Work](ТВОЯ_ССЫЛКА_ТУТ)** — A collection of my test documentation and bug reproduction videos.
-* **Skills:** Test Planning, Test Case & Checklist creation, Bug Reporting, Test Design.
+* [**QA Course Work**](https://github.com/zllrocky/qa-course-practice) — A collection of my test documentation and bug reproduction videos.
+* **Skills:** Test Planning, Test Case & Checklist creation, Bug Reporting, Test Design (BVA, EP).
 
 ---
 
 ### 🤝 Connect with me:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/eugene-solomon-7679753a3/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-  </a>
-  <a href="https://t.me/MyRocky1993" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/eugene-solomon-7679753a3/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://t.me/MyRocky1993" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 
----
-
-### 📁 Test Management & Documentation:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="TestRail" width="40" height="40"/>&nbsp;
-</div>
+<br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zllrocky)
-
-### 📂 Practice:
-* [**QA Course Work**](https://github.com/zllrocky/qa-course-practice) — A collection of my test documentation and bug reproduction videos.
