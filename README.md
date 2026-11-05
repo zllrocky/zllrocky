@@ -22,7 +22,7 @@ I have been actively learning **Python** and backend development since early 202
 
 ### 🚀 Recent Projects:
 - **Booking API** — A backend learning project built with FastAPI to practice API development and routing.
-- **Web-site-State-of-Mind
+- **Web-site-State-of-Mind**
 
 
 ---
